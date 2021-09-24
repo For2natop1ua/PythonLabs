@@ -1,0 +1,6 @@
+print("Введіть слово:", end=" ")
+text = input()
+print("Скільки разів повторювати це слово:", end=" ")
+num = int(input())
+print("Ви ввели слово: {0}".format(text))
+print("Слово після перетворення {0} рази: {1}".format(num, text * num))
