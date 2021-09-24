@@ -12,7 +12,7 @@
 > Ви ввели сторону a: 300, кут A: 30, кут B: 40  
 > Площа: ...
 
-####Lab3V6_1.py:
+#### Lab3V6_1.py:
 ```python
 import AreaTriangle as at
 
@@ -29,7 +29,7 @@ else:
         print("Ви ввели сторону a: {}, кут A: {}, кут B: {}".format(side, f_angle, s_angle))
         print("Площа трикутника: {}".format(round(a, 2)))
 ```
-####AreaTriangle.py:
+#### AreaTriangle.py:
 ```python
 import math
 
