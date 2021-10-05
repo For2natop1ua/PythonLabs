@@ -22,7 +22,7 @@ if side <= 0:
 else:
     f_angle = int(input("Введіть перший кут:"))
     s_angle = int(input("Введіть другий кут:"))
-    if f_angle or s_angle < 0:
+    if f_angle | s_angle < 0:
         print("Кути трикутника не можуть бути від'ємними!")
     else:
         a = at.area(side, f_angle, s_angle)
