@@ -4,7 +4,6 @@ class Registration:
     name = None
     phone = None
 
-    # конструктор базового класса
     def __init__(self, id, date, name, phone):
         self.id = id
         self.date = date
