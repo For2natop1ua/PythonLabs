@@ -8,7 +8,7 @@
 успадкування. Розширити класи властивостями та методами на власний розсуд. Створити
 екземпляри класу та вивести інформацію про кожен об'єкт.
 
-![alt tag](https://d.radikal.ru/d38/2110/8e/1f648e07562d.png)
+![Image alt](https://github.com/For2natop1ua/PythonLabs/raw/Lab5_Variant6/screen.png)
 
 
 
