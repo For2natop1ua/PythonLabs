@@ -8,7 +8,7 @@
 кнопку “Перемістити”, зелене коло переміщається з лівого кута до правого. При цьому 4
 рази змінює свій колір, як показано на малюнку. Використовувати модуль Tkinter.
 
-![Image alt](https://github.com/For2natop1ua/PythonLabs/raw/Lab10_Variant6/screen.png)
+![Image alt](https://github.com/For2natop1ua/PythonLabs/raw/Lab5_Variant6/screen.png)
 
 ### Lab10V6.py:
 ```python
