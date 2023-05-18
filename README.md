@@ -272,3 +272,13 @@ else:
 
 ```
 ---
+
+
+# Lab8
+Встановити PyCharm, створити файл та запустити просту програму “Hello, World!”.
+
+#### main.py:
+```python
+print("Hello, world!")
+```
+---
